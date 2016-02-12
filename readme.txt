@@ -1,1 +1,1 @@
-React-Native入门级学习资源，包含nodejs服务器端搭建
+rReact-Native入门级学习资源，包含nodejs服务器端搭建
